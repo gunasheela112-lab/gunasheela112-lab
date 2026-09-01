@@ -18,7 +18,7 @@ Computer Science Engineering student focused on building practical projects, lea
 
 ### 🌐 Connect With Me
 * **GitHub:** [gunasheela112-lab](https://github.com/gunasheela112-lab)
-## Hi there 👋
+
 
 <!--
 **gunasheela112-lab/gunasheela112-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
