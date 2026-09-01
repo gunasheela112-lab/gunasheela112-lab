@@ -1,3 +1,23 @@
+# Hi, I'm Gunasheela 👋
+
+Computer Science Engineering student focused on building practical projects, learning backend fundamentals, and workflow automation.
+
+---
+
+### 💻 Current Tech Stack & Learning
+* **Languages:** Python, C
+* **Core Concepts:** Data Structures & Algorithms, Basic Networking, Object-Oriented Programming (OOP)
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📌 Projects
+* **[NetVanguard](https://github.com/gunasheela112-lab/NetVanguard):** Multi-threaded CLI network diagnostic & security audit tool built with Python.
+
+---
+
+### 🌐 Connect With Me
+* **GitHub:** [gunasheela112-lab](https://github.com/gunasheela112-lab)
 ## Hi there 👋
 
 <!--
