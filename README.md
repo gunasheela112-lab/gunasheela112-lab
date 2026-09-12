@@ -1,25 +1,51 @@
 # Hi, I'm Gunasheela 👋
 
-Computer Science Engineering student focused on building practical projects, learning backend fundamentals, and workflow automation.
+**Turning data into decisions, and networks into insights.**
+
+I'm a Computer Science Engineering student who builds things instead of just studying them — from network security dashboards to machine learning models that predict real operational problems before they happen. I care about the *why* behind the data, not just the *what*.
+
+🔭 Currently deepening my fundamentals in cloud, networking, and security
+📊 Passionate about turning messy, real-world data into decisions that actually matter
+🌱 Always building — five projects deep and counting
 
 ---
 
-### 💻 Current Tech Stack & Learning
-* **Languages:** Python, C
-* **Core Concepts:** Data Structures & Algorithms, Basic Networking, Object-Oriented Programming (OOP)
-* **Tools:** Git, GitHub, VS Code
+## ⚙️ Tech Stack & Focus Areas
+
+**Languages:** `Python` `C` `SQL (basics)`
+
+**Networking:** `TCP/IP` `Subnetting & VLANs` `Routing & Switching` `Cisco Packet Tracer` `DNS/DHCP`
+
+**Security:** `CIA Triad` `IDS/IPS` `Network Segmentation` `Threat Detection` `Security Auditing`
+
+**Cloud:** `Cloud Computing Fundamentals` `AWS` `Azure` `Cloud Networking` `Virtualization`
+
+**Data Analytics & ML:** `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Exploratory Data Analysis` `Predictive Modeling`
+
+**Tools:** `Git` `GitHub` `Google Colab` `VS Code`
+
+*Currently deepening my hands-on experience across all of the above — always building, always learning.*
 
 ---
 
-### 📌 Projects
-* **[NetVanguard](https://github.com/gunasheela112-lab/NetVanguard):** Multi-threaded CLI network diagnostic & security audit tool built with Python.
+## 🚀 Featured Projects
+
+| Project | What it does |
+|---|---|
+| **[NetVanguard](link)** | Multi-threaded CLI tool for network diagnostics & security audits |
+| **[FathomIDS](link)** | Real-time network security dashboard with zone-based threat detection |
+| **[PortNet Ops](link)** | Network design & monitoring dashboard — VLAN zoning, live telemetry |
+| **[Fathom Alert Analytics](link)** | Data analysis on security alert patterns — cleaning, EDA, insights |
+| **[IT Helpdesk Ticket Analytics](link)** | ML model predicting SLA breach risk from support ticket data |
 
 ---
 
-### 🌐 Connect With Me
-* **GitHub:** [gunasheela112-lab](https://github.com/gunasheela112-lab)
+## 📈 Let's Connect
 
+💼 **LinkedIn:** [your LinkedIn URL here]
+🐙 **GitHub:** [gunasheela112-lab](https://github.com/gunasheela112-lab)
 
+*Open to opportunities in networking, data analysis, and IT operations.*
 <!--
 **gunasheela112-lab/gunasheela112-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
