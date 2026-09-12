@@ -32,11 +32,11 @@ I'm a Computer Science Engineering student who builds things instead of just stu
 
 | Project | What it does |
 |---|---|
-| **[NetVanguard](link)** | Multi-threaded CLI tool for network diagnostics & security audits |
-| **[FathomIDS](link)** | Real-time network security dashboard with zone-based threat detection |
-| **[PortNet Ops](link)** | Network design & monitoring dashboard — VLAN zoning, live telemetry |
-| **[Fathom Alert Analytics](link)** | Data analysis on security alert patterns — cleaning, EDA, insights |
-| **[IT Helpdesk Ticket Analytics](gunasheela112-lab/IT-helpdesk-ticket-analytics: Data analysis of IT support tickets with SLA breach prediction model https://share.google/t5yjzUrInC3LblIBc)** | ML model predicting SLA breach risk from support ticket data |
+| **[NetVanguard](https://github.com/gunasheela112-lab/NetVanguard)** | Multi-threaded CLI tool for network diagnostics & security audits |
+| **[FathomIDS](https://github.com/gunasheela112-lab/fathom-noc)** | Real-time network security dashboard with zone-based threat detection |
+| **[PortNet Ops](https://github.com/gunasheela112-lab/portnet-ops)** | Network design & monitoring dashboard — VLAN zoning, live telemetry |
+| **[Fathom Alert Analytics](https://github.com/gunasheela112-lab/fathom-alert-analytics)** | Data analysis on security alert patterns — cleaning, EDA, insights |
+| **[IT Helpdesk Ticket Analytics](https://github.com/gunasheela112-lab/IT-helpdesk-ticket-analytics)** | ML model predicting SLA breach risk from support ticket data |
 
 ---
 
