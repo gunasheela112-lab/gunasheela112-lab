@@ -47,7 +47,18 @@ I'm a Computer Science Engineering student who builds things instead of just stu
 
 *Open to opportunities in networking, cybersecurity, cloud, and data analysis.*
 <!--
-**gunasheela112-lab/gunasheela112-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 Let's Connect
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
+
+](https://www.linkedin.com/in/gunasheela-a-s)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-gunasheela112--lab-black?style=flat&logo=github)
+
+](https://github.com/gunasheela112-lab)*gunasheela112-lab/gunasheela112-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
