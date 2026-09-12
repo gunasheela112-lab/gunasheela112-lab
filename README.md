@@ -36,7 +36,7 @@ I'm a Computer Science Engineering student who builds things instead of just stu
 | **[FathomIDS](link)** | Real-time network security dashboard with zone-based threat detection |
 | **[PortNet Ops](link)** | Network design & monitoring dashboard — VLAN zoning, live telemetry |
 | **[Fathom Alert Analytics](link)** | Data analysis on security alert patterns — cleaning, EDA, insights |
-| **[IT Helpdesk Ticket Analytics](link)** | ML model predicting SLA breach risk from support ticket data |
+| **[IT Helpdesk Ticket Analytics](gunasheela112-lab/IT-helpdesk-ticket-analytics: Data analysis of IT support tickets with SLA breach prediction model https://share.google/t5yjzUrInC3LblIBc)** | ML model predicting SLA breach risk from support ticket data |
 
 ---
 
