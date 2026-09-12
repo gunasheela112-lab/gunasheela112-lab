@@ -45,7 +45,7 @@ I'm a Computer Science Engineering student who builds things instead of just stu
 💼 **LinkedIn:** [your LinkedIn URL here]
 🐙 **GitHub:** [gunasheela112-lab](https://github.com/gunasheela112-lab)
 
-*Open to opportunities in networking, data analysis, and IT operations.*
+*Open to opportunities in networking, cybersecurity, cloud, and data analysis.*
 <!--
 **gunasheela112-lab/gunasheela112-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
