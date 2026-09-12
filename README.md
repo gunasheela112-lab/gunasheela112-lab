@@ -46,6 +46,19 @@ I'm a Computer Science Engineering student who builds things instead of just stu
 🐙 **GitHub:** [gunasheela112-lab](https://github.com/gunasheela112-lab)
 
 *Open to opportunities in networking, cybersecurity, cloud, and data analysis.*
+
+## 📈 Let's Connect
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
+
+](https://www.linkedin.com/in/gunasheela-a-s)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-gunasheela112--lab-black?style=flat&logo=github)
+
+](https://github.com/gunasheela112-lab)
 <!--
 ## 📈 Let's Connect
 
