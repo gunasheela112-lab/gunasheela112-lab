@@ -1,71 +1,75 @@
 # Hi, I'm Gunasheela 👋
 
-**Turning data into decisions, and networks into insights.**
+I'm a Computer Science Engineering student building hands-on skills in **networking**, with secondary interests in **cybersecurity, cloud, and data analytics**.
 
-I'm a Computer Science Engineering student who builds things instead of just studying them — from network security dashboards to machine learning models that predict real operational problems before they happen. I care about the *why* behind the data, not just the *what*.
-
-🔭 Currently deepening my fundamentals in cloud, networking, and security
-📊 Passionate about turning messy, real-world data into decisions that actually matter
-🌱 Always building — five projects deep and counting
+My main focus is understanding how networks are designed, configured, verified, and troubleshot — from Cisco switching and routing labs to packet analysis and network automation.
 
 ---
 
-## ⚙️ Tech Stack & Focus Areas
+## 🎯 Focus Areas
 
-**Languages:** `Python` `C` `SQL (basics)`
+**Primary — Networking**
+- TCP/IP, subnetting, VLANs, routing & switching
+- Cisco IOS and Cisco Packet Tracer
+- STP / Rapid PVST+, HSRP, EtherChannel
+- DHCP, DNS, NAT/PAT, ACLs
+- IPv4 & IPv6
+- SSH, NTP and network troubleshooting
+- Wireshark packet analysis
+- Network resilience, OSPF and traffic analysis
 
-**Networking:** `TCP/IP` `Subnetting & VLANs` `Routing & Switching` `Cisco Packet Tracer` `DNS/DHCP`
+**Secondary — Cybersecurity**
+- Network segmentation and Layer 2 security
+- Port Security, BPDU Guard, DHCP Snooping & DAI
+- Network diagnostics and security auditing
+- Rule-based network anomaly detection
 
-**Security:** `CIA Triad` `IDS/IPS` `Network Segmentation` `Threat Detection` `Security Auditing`
+**Secondary — Cloud**
+- Cloud computing fundamentals
+- Cloud networking concepts
+- Application deployment and hosted services
+- Container and virtualization fundamentals
 
-**Cloud:** `Cloud Computing Fundamentals` `AWS` `Azure` `Cloud Networking` `Virtualization`
-
-**Data Analytics & ML:** `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Exploratory Data Analysis` `Predictive Modeling`
-
-**Tools:** `Git` `GitHub` `Google Colab` `VS Code`
-
-*Currently deepening my hands-on experience across all of the above — always building, always learning.*
+**Secondary — Data Analytics**
+- Python, Pandas, NumPy
+- Exploratory data analysis and visualization
+- Matplotlib / Seaborn
+- Scikit-learn and predictive modeling
+- Operational and security-data analysis
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it does |
+| Project | What it demonstrates |
 |---|---|
-| **[NetVanguard](https://github.com/gunasheela112-lab/NetVanguard)** | Multi-threaded CLI tool for network diagnostics & security audits |
-| **[FathomIDS](https://github.com/gunasheela112-lab/fathom-noc)** | Real-time network security dashboard with zone-based threat detection |
-| **[PortNet Ops](https://github.com/gunasheela112-lab/portnet-ops)** | Network design & monitoring dashboard — VLAN zoning, live telemetry |
-| **[Fathom Alert Analytics](https://github.com/gunasheela112-lab/fathom-alert-analytics)** | Data analysis on security alert patterns — cleaning, EDA, insights |
-| **[IT Helpdesk Ticket Analytics](https://github.com/gunasheela112-lab/IT-helpdesk-ticket-analytics)** | ML model predicting SLA breach risk from support ticket data |
+| **[Enterprise Network Infrastructure](https://github.com/gunasheela112-lab/enterprise-network-infrastructure)** | Multi-VLAN enterprise network with inter-VLAN routing, HSRP, Rapid PVST+, ACLs, DHCP, NAT/PAT and DNS |
+| **[Cisco L2 Security & Redundancy Lab](https://github.com/gunasheela112-lab/Cisco-L2-Security-Redundancy-Lab)** | LACP EtherChannel, Rapid PVST+, Port Security, BPDU Guard, DHCP Snooping and DAI |
+| **[Cisco Network Administration & Troubleshooting Lab](https://github.com/gunasheela112-lab/Cisco-Network-Administration-Troubleshooting-Lab)** | IPv6, SSH, NTP, EtherChannel and deliberate fault-isolation exercises |
+| **[NetFabric](https://github.com/gunasheela112-lab/NetFabric)** | FRRouting, OSPF, redundant paths, traffic measurements, PCAP analysis and convergence experiments |
+| **[Wireshark Network Traffic Analysis](https://github.com/gunasheela112-lab/Wireshark-Network-Traffic-Analysis)** | TCP, ARP, ICMP and DNS packet analysis with practical troubleshooting |
+| **[NetVanguard](https://github.com/gunasheela112-lab/NetVanguard)** | Python-based network diagnostics, concurrent TCP auditing and security risk classification |
+
+### Data & Analytics
+
+- **[Fathom Alert Analytics](https://github.com/gunasheela112-lab/fathom-alert-analytics)** — Exploratory and statistical analysis of synthetic security-alert data
+- **[IT Helpdesk Ticket Analytics](https://github.com/gunasheela112-lab/IT-helpdesk-ticket-analytics)** — Data cleaning, EDA and machine-learning-based SLA breach prediction
 
 ---
 
-## 📈 Let's Connect
+## 🛠️ Tools
+
+`Python` `C` `SQL` `Cisco IOS` `Cisco Packet Tracer` `Wireshark` `Git` `GitHub` `Docker` `FRRouting` `Containerlab` `FastAPI` `Flask` `Pandas` `NumPy` `Scikit-learn`
+
+---
+
+## 📚 Current Direction
+
+Building stronger hands-on networking skills while continuing to develop supporting knowledge in cybersecurity, cloud, and data analytics.
+
+---
+
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gunasheela-a-s)
 [![GitHub](https://img.shields.io/badge/GitHub-gunasheela112--lab-black?style=flat&logo=github)](https://github.com/gunasheela112-lab)
-<!--
-## 📈 Let's Connect
-
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
-
-](https://www.linkedin.com/in/gunasheela-a-s)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-gunasheela112--lab-black?style=flat&logo=github)
-
-](https://github.com/gunasheela112-lab)*gunasheela112-lab/gunasheela112-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
