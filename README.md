@@ -1,8 +1,11 @@
 # Hi, I'm Gunasheela 👋
 
+**Networking Enthusiast | Network Engineering | Security | Cloud | Data Analytics**  
+**Cisco | Wireshark | Python | Azure Fundamentals**
+
 I'm a Computer Science Engineering student building hands-on skills in **networking**, with secondary interests in **cybersecurity, cloud, and data analytics**.
 
-My main focus is understanding how networks are designed, configured, verified, and troubleshot — from Cisco switching and routing labs to packet analysis and network automation.
+My main focus is understanding how networks are designed, configured, verified, and troubleshot — from Cisco switching and routing labs to packet analysis and network diagnostics.
 
 ---
 
@@ -16,7 +19,7 @@ My main focus is understanding how networks are designed, configured, verified, 
 - IPv4 & IPv6
 - SSH, NTP and network troubleshooting
 - Wireshark packet analysis
-- Network resilience, OSPF and traffic analysis
+- Network resilience and traffic analysis
 
 **Secondary — Cybersecurity**
 - Network segmentation and Layer 2 security
@@ -27,6 +30,8 @@ My main focus is understanding how networks are designed, configured, verified, 
 **Secondary — Cloud**
 - Cloud computing fundamentals
 - Cloud networking concepts
+- Microsoft Azure fundamentals
+- Azure cloud services and core concepts
 - Application deployment and hosted services
 - Container and virtualization fundamentals
 
@@ -46,7 +51,6 @@ My main focus is understanding how networks are designed, configured, verified, 
 | **[Enterprise Network Infrastructure](https://github.com/gunasheela112-lab/enterprise-network-infrastructure)** | Multi-VLAN enterprise network with inter-VLAN routing, HSRP, Rapid PVST+, ACLs, DHCP, NAT/PAT and DNS |
 | **[Cisco L2 Security & Redundancy Lab](https://github.com/gunasheela112-lab/Cisco-L2-Security-Redundancy-Lab)** | LACP EtherChannel, Rapid PVST+, Port Security, BPDU Guard, DHCP Snooping and DAI |
 | **[Cisco Network Administration & Troubleshooting Lab](https://github.com/gunasheela112-lab/Cisco-Network-Administration-Troubleshooting-Lab)** | IPv6, SSH, NTP, EtherChannel and deliberate fault-isolation exercises |
-| **[NetFabric](https://github.com/gunasheela112-lab/NetFabric)** | FRRouting, OSPF, redundant paths, traffic measurements, PCAP analysis and convergence experiments |
 | **[Wireshark Network Traffic Analysis](https://github.com/gunasheela112-lab/Wireshark-Network-Traffic-Analysis)** | TCP, ARP, ICMP and DNS packet analysis with practical troubleshooting |
 | **[NetVanguard](https://github.com/gunasheela112-lab/NetVanguard)** | Python-based network diagnostics, concurrent TCP auditing and security risk classification |
 
@@ -59,7 +63,7 @@ My main focus is understanding how networks are designed, configured, verified, 
 
 ## 🛠️ Tools
 
-`Python` `C` `SQL` `Cisco IOS` `Cisco Packet Tracer` `Wireshark` `Git` `GitHub` `Docker` `FRRouting` `Containerlab` `FastAPI` `Flask` `Pandas` `NumPy` `Scikit-learn`
+`Python` `C` `SQL` `Cisco IOS` `Cisco Packet Tracer` `Wireshark` `Git` `GitHub` `Docker` `Pandas` `NumPy` `Scikit-learn` `Microsoft Azure`
 
 ---
 
